@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5BE112E9-593B-473F-812B-BC6EA59FD9BD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "595EBD17-190B-44D6-9A99-69295481D15E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Xylophone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "595EBD17-190B-44D6-9A99-69295481D15E - c1c6dc27f18a2705"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.player.getter : Swift.Optional&lt;__C.AVAudioPlayer&gt;"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikemorcerf/Documents/UDEMY/iOS%20course/Xylophone-iOS13/Xylophone/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "595EBD17-190B-44D6-9A99-69295481D15E - 4dbc04cd936c4319"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.player.setter : Swift.Optional&lt;__C.AVAudioPlayer&gt;"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikemorcerf/Documents/UDEMY/iOS%20course/Xylophone-iOS13/Xylophone/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "595EBD17-190B-44D6-9A99-69295481D15E - 3c34971943fae06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.player.modify : Swift.Optional&lt;__C.AVAudioPlayer&gt;"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikemorcerf/Documents/UDEMY/iOS%20course/Xylophone-iOS13/Xylophone/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "595EBD17-190B-44D6-9A99-69295481D15E - b168fcbfdd118764"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.player.modify : Swift.Optional&lt;__C.AVAudioPlayer&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikemorcerf/Documents/UDEMY/iOS%20course/Xylophone-iOS13/Xylophone/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "595EBD17-190B-44D6-9A99-69295481D15E - 4d34f5484152d00a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Xylophone.ViewController"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikemorcerf/Documents/UDEMY/iOS%20course/Xylophone-iOS13/Xylophone/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "595EBD17-190B-44D6-9A99-69295481D15E - 876f701e0d9700ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Xylophone.ViewController&gt;"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikemorcerf/Documents/UDEMY/iOS%20course/Xylophone-iOS13/Xylophone/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
